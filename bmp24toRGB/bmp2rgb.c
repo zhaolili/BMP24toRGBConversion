@@ -1,3 +1,7 @@
+/*
+Description	:Extract RGB data from bmp image.
+Author		:Lili Zhao <zhao86.scholar@gmail.com>
+*/
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
